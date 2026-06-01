@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uservarse",
+        "uuid": 13740328,
+        "checksum": "rpgauc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
